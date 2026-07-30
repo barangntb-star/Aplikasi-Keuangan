@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Keuangan BAKESBANGPOLDAGRI NTB",
+  "description": "Sistem Informasi Manajemen Keuangan & Anggaran (BFMS) BAKESBANGPOLDAGRI NTB - Pengelolaan DPA, Realisasi Keuangan & Fisik, Analisis AI Gemini, Export/Import Excel, dan Laporan Multi-Bidang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
